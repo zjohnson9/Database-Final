@@ -1,0 +1,3 @@
+#Problem Statement
+
+Our application will allow users to search our database for movies, actors, directors, producers, and other users. They will be able to create accounts with unique logins and store a list of films. Users will also be able to rate movies. Our goal is for users to be able to search movies for ratings, actors, directors, producers, and other users. The users will be able to compile a list of movies of their choice. 
